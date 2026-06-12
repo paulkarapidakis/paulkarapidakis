@@ -1,16 +1,26 @@
-## Hi there 👋
+# Paul Karapidakis
 
-<!--
-**paulkarapidakis/paulkarapidakis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an Informatics Engineering graduate based in Thessaloniki, Greece, currently transitioning back into IT.
 
-Here are some ideas to get you started:
+My current target roles are in IT Support, Junior System Administration, Technical Support and QA / Software Testing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am currently refreshing and expanding my practical skills through hands-on learning and personal home lab work.
+
+## Current focus
+
+- IT Support fundamentals
+- Windows Server / Active Directory
+- Ubuntu Server and Linux basics
+- Docker-based self-hosting
+- Workflow automation with n8n
+- PostgreSQL and SQL practice
+- Local LLM experimentation with Ollama
+- QA and software testing basics
+
+## Featured project
+
+- [IT & Automation Home Lab](https://github.com/paulkarapidakis/it-automation-homelab)
+
+## Background
+
+My background combines Informatics Engineering, technical support, operations management, Excel/SQL-based workflows, WordPress maintenance, basic networking, troubleshooting and high-pressure project delivery.
